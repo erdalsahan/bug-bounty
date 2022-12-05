@@ -42,7 +42,7 @@ Y/N
 ```
 1. Use the issue template [here](https://github.com/masa-finance/bug-bounty/blob/main/.github/ISSUE_TEMPLATE/bug-bounty-report.md)
 ![Issue Template](https://github.com/masa-finance/bug-bounty/blob/main/src/images/issue-template.png "Issue Template")
-***...or take the following steps**
+**...or take the following steps**
 1. Mark the issue as a **bug** with a label 
 1. Assign the issue to your GitHub username
 1. Assign the issue to the following reviewers username on the team "Luka-Loncar"
