@@ -1,7 +1,7 @@
 ![Masa Bug Bounty](https://github.com/masa-finance/bug-bounty/blob/main/src/images/bug-bounty-github-header.jpg "Masa Bug Bounty")
 
 ## :mega: Instructions
-1. Check through the [public repositories](#repositories-for-bug-bounty) and find bugs
+1. Check through the [public repositories](#-repositories-for-bug-bounty) and find bugs
 1. Go to the issues section in the repo you found the bug using the following template that is [linked in the repo here](https://github.com/masa-finance/bug-bounty/blob/main/.github/ISSUE_TEMPLATE/bug-bounty-report.md)
 ```
 **Describe the bug**
