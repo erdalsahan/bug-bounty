@@ -40,7 +40,7 @@ Add any other context about the problem here.
 ***Is this bug a Critical Vulnerability***
 Y/N
 ```
-1. Use the issue template as follows or take the following steps
+1. Use the issue template [here](https://github.com/masa-finance/bug-bounty/blob/main/.github/ISSUE_TEMPLATE/bug-bounty-report.md) as follows or take the following steps
 ![Issue Template](https://github.com/masa-finance/bug-bounty/blob/main/src/images/issue-template.png "Issue Template")
 1. Mark the issue as a **bug** with a label 
 1. Assign the issue to your GitHub username
