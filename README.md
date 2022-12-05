@@ -74,3 +74,7 @@ We will update this repo once a month with a `.csv` of Bug Bounty participants w
 1. [Masa React](https://github.com/masa-finance/masa-react)
 1. [Masa Docs](https://github.com/masa-finance/docs)
 1. [Masa Protocol](https://github.com/masa-finance/masa-protocol)
+
+## :speech_balloon: Questions? Comments?
+
+We want your feedback and help. Please join the [Masa Discord](https://discord.com/invite/HyHGaKhaKs) and participate in the [#Bug-Bounty](https://discord.com/channels/848996376896602163/1049431510610088038) channel to chat directly with the team. If you are a developer looking to build on Masa, submit your project details [here](https://www.masa.finance/developers).
