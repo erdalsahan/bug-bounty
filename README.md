@@ -67,10 +67,10 @@ We will update this repo once a month with a `.csv` of Bug Bounty participants w
 
 ## :computer: Repositories For Bug Bounty
 
-[Masa Bug Bounty](https://github.com/masa-finance/bug-bounty)
-[Masa Smart Contracts](https://github.com/masa-finance/masa-contracts-identity)
-[Masa CLI](https://github.com/masa-finance/masa-cli)
-[Masa SDK](https://github.com/masa-finance/masa-sdk)
-[Masa React](https://github.com/masa-finance/masa-react)
-[Masa Docs](https://github.com/masa-finance/docs)
-[Masa Protocol](https://github.com/masa-finance/masa-protocol)
+1. [Masa Bug Bounty](https://github.com/masa-finance/bug-bounty)
+1. [Masa Smart Contracts](https://github.com/masa-finance/masa-contracts-identity)
+1. [Masa CLI](https://github.com/masa-finance/masa-cli)
+1. [Masa SDK](https://github.com/masa-finance/masa-sdk)
+1. [Masa React](https://github.com/masa-finance/masa-react)
+1. [Masa Docs](https://github.com/masa-finance/docs)
+1. [Masa Protocol](https://github.com/masa-finance/masa-protocol)
