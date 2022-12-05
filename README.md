@@ -2,16 +2,43 @@
 
 ## :mega: Instructions
 1. Check through the public repositories and find bugs
-1. Go to the issues section in the repo you found the bug using the following template
+1. Go to the issues section in the repo you found the bug using the following template that is [linked in the repo here](https://github.com/masa-finance/bug-bounty/blob/main/.github/ISSUE_TEMPLATE/bug-bounty-report.md)
 ```
-GitHub Username:...
-Repo URL: https://github.com/masa-finance/...
-Bug description: Write a detailed description here 
-Instructions to reproduce: Write detailed instructions here
-Video of the bug: Add a video of the bug
-Screenshots: Add screenshots
-Is this bug a Critical Vulnerability: Y/N
-Add any other information you think is helpful including code snippets
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Video**
+If applicable, add a video to help explain your problem. 
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+
+***Is this bug a Critical Vulnerability***
+Y/N
 ```
 1. Mark the issue as a **bug** with a label 
 1. Assign the issue to your GitHub username
