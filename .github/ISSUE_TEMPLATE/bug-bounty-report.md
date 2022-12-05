@@ -41,5 +41,5 @@ If applicable, add a video to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
-***Is this bug a Critical Vulnerability***
+**Is this bug a Critical Vulnerability**
 Y/N

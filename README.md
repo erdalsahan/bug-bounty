@@ -37,7 +37,7 @@ If applicable, add a video to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
-***Is this bug a Critical Vulnerability***
+**Is this bug a Critical Vulnerability**
 Y/N
 ```
 1. Use the issue template [here](https://github.com/masa-finance/bug-bounty/blob/main/.github/ISSUE_TEMPLATE/bug-bounty-report.md)
