@@ -1,7 +1,7 @@
 ![Masa Bug Bounty](https://github.com/masa-finance/bug-bounty/blob/main/src/images/bug-bounty-github-header.jpg "Masa Bug Bounty")
 
 ## :mega: Instructions
-1. Check through the [public repositories](#:computer:-repositories-for-bug-bounty) and find bugs
+1. Check through the [public repositories](#repositories-for-bug-bounty) and find bugs
 1. Go to the issues section in the repo you found the bug using the following template that is [linked in the repo here](https://github.com/masa-finance/bug-bounty/blob/main/.github/ISSUE_TEMPLATE/bug-bounty-report.md)
 ```
 **Describe the bug**
@@ -65,7 +65,7 @@ We will update this repo once a month with a `.csv` of Bug Bounty participants w
 | Medium Risk | 100,000 MASA and $250 USDC | +20% bonus on all bugs found |
 | Low Risk | 10,000 MASA and $25 USDC | +20% bonus on all bugs found |
 
-## :computer: Repositories For Bug Bounty
+## Repositories For Bug Bounty
 
 1. [Masa Bug Bounty](https://github.com/masa-finance/bug-bounty)
 1. [Masa Smart Contracts](https://github.com/masa-finance/masa-contracts-identity)
